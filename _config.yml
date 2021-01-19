@@ -104,5 +104,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://GH_TOKEN@github.com:feikong233/feikong233.blog.io.git
+  repository: https://github.com/feikong233/feikong233.github.io.git
   branch: main
